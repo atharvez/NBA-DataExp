@@ -1,10 +1,10 @@
-﻿# NBA Data Exploration ðŸ€ðŸ“Š
+# NBA Data Exploration
 
 Comprehensive data exploration and analysis of NBA player and team statistics.
 
 ## Overview
 
-Through Exploratory Data Analysis (EDA), we uncover patterns in player performance, team efficiency, and game outcomes using NBA stats datasets.
+Exploratory Data Analysis (EDA) uncovering patterns in player performance, team efficiency, and game outcomes using NBA stats datasets.
 
 ## Tech Stack
 
@@ -19,11 +19,11 @@ Through Exploratory Data Analysis (EDA), we uncover patterns in player performan
 
 ## Key Analyses
 
-- ðŸ“ˆ **Player Efficiency Ratings** â€” PER, Win Shares, Box Plus/Minus
-- ðŸ† **Team Performance Clusters** â€” Grouping teams by playstyle
-- ðŸ”® **Win Prediction** â€” ML model to predict game outcomes
-- ðŸ’° **Salary vs Performance** â€” Value analysis for contracts
-- ðŸ“ **Shot Chart Analysis** â€” Shooting zones and efficiency
+- Player Efficiency Ratings -- PER, Win Shares, Box Plus/Minus
+- Team Performance Clusters -- grouping teams by playstyle
+- Win Prediction -- ML model to predict game outcomes
+- Salary vs Performance -- value analysis for contracts
+- Shot Chart Analysis -- shooting zones and efficiency
 
 ## Getting Started
 
@@ -38,4 +38,4 @@ jupyter notebook
 
 ## License
 
-MIT Â© [Atharva Desai](https://github.com/atharvez)
+MIT (c) Atharva Desai
